@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+    <channel>
+        <title>API ChangeLog</title>
+        <link>https://hmrc-api-team.github.io/</link>
+        <description>to provide updates for all API's</description>
+        <lastBuildDate>Mon, November 30 2020</lastBuildDate>
+        <item>
+            <title>ChangeLog created</title>
+            <link>https://hmrc-api-team.github.io/</link>
+            <guid  isPermaLink="false">https://hmrc-api-team.github.io/?p=1</guid>
+            <description>all API's have been added to change log</description>
+            <pubDate>Mon, November 30 2020</pubDate>
+        </item>
+    </channel>
+</rss>
